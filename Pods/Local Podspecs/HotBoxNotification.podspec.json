@@ -1,0 +1,27 @@
+{
+  "name": "HotBoxNotification",
+  "version": "1.1.0",
+  "summary": "Unobtrusive and customizable alerts for your iOS app",
+  "homepage": "https://github.com/nspassov/HotBoxNotification",
+  "license": {
+    "type": "MIT",
+    "text": "Copyright (c) 2015 nspassov"
+  },
+  "authors": {
+    "Nikolay Spassov": "https://spassov.me/"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/nspassov/HotBoxNotification",
+    "tag": "master"
+  },
+  "requires_arc": true,
+  "source_files": "HotBoxNotification/HotBoxNotification/*.{swift,h,m}",
+  "dependencies": {
+    "Masonry": [
+      "~> 0.6"
+    ]
+  }
+}

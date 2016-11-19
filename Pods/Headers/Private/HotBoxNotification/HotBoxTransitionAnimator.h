@@ -1,0 +1,1 @@
+../../../HotBoxNotification/HotBoxNotification/HotBoxNotification/HotBoxTransitionAnimator.h

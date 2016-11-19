@@ -1,0 +1,39 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.1.0)
+  - HotBoxNotification (1.1.0):
+    - Masonry (~> 0.6)
+  - IQKeyboardManager (4.0.3)
+  - Masonry (0.6.4)
+  - MBProgressHUD (0.9.2)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - TWRDownloadManager (1.1.1)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - HotBoxNotification (from `https://github.com/nspassov/HotBoxNotification.git`)
+  - IQKeyboardManager
+  - MBProgressHUD (~> 0.9.2)
+  - SDWebImage
+  - TWRDownloadManager
+
+EXTERNAL SOURCES:
+  HotBoxNotification:
+    :git: https://github.com/nspassov/HotBoxNotification.git
+
+CHECKOUT OPTIONS:
+  HotBoxNotification:
+    :commit: 8ead0f15f369bba86a704bd2399a5cbf1d0b29a5
+    :git: https://github.com/nspassov/HotBoxNotification.git
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: db66605feb85689279d328206c61f0e4f398df92
+  HotBoxNotification: 3eb1e61df33c38e4a95a7ccea53f1010e73f3c96
+  IQKeyboardManager: be9695ffc5a52077deb4847608f338771022d6d1
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  TWRDownloadManager: 34193d7d1ab6e6b4243d74fa4f686cc2ed5ef40f
+
+COCOAPODS: 0.39.0
